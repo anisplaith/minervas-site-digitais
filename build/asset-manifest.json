@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.166c92c5.css",
+    "main.js": "./static/js/main.d87d7b4d.js",
+    "static/js/787.5cc16608.chunk.js": "./static/js/787.5cc16608.chunk.js",
+    "static/media/maps.png": "./static/media/maps.a7d70fdb050f6a9b61af.png",
+    "static/media/barras.svg": "./static/media/barras.0ea72a9ff6fac38fa993a9487c86d8b0.svg",
+    "static/media/HomeIMG.svg": "./static/media/HomeIMG.458ea482ce7738c9f80ac1abfe4e9d9d.svg",
+    "static/media/logonova-completa.svg": "./static/media/logonova-completa.87d9dce1e94f93d8739a102343c69b9d.svg",
+    "static/media/pizza-graph.svg": "./static/media/pizza-graph.11e6d314023914593ae8b26cf52ddf37.svg",
+    "static/media/Pizza.svg": "./static/media/Pizza.10a5c49bfb3769121ecb6e290fb57c73.svg",
+    "static/media/example-image.svg": "./static/media/example-image.22dd5fbd93ef140b64bac324327ffcfa.svg",
+    "index.html": "./index.html",
+    "static/media/white-line.svg": "./static/media/white-line.d5b494253c793c29f0b2e9b6a2353566.svg",
+    "static/media/purple-background2.svg": "./static/media/purple-background2.c2035e5d83b2cdf048a2.svg",
+    "static/media/purple-background.svg": "./static/media/purple-background.bf4bb85aec957dea78b3.svg",
+    "static/media/purple-background3.svg": "./static/media/purple-background3.23fd5dd027608a8d9fcc.svg",
+    "main.166c92c5.css.map": "./static/css/main.166c92c5.css.map",
+    "main.d87d7b4d.js.map": "./static/js/main.d87d7b4d.js.map",
+    "787.5cc16608.chunk.js.map": "./static/js/787.5cc16608.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.166c92c5.css",
+    "static/js/main.d87d7b4d.js"
+  ]
+}
